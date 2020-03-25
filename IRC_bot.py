@@ -1,3 +1,4 @@
+""" Thanks to https://www.techbeamers.com/create-python-irc-bot/ for the tutorial this module comes from. """
 import socket
 import time
 
